@@ -1,11 +1,11 @@
 <!--### Hi there 👋-->
 
-                                                            Hi there 👋
+                                                          Hi there 👋
                                       
-                                          I’m diws1, a freelancer and GNU/Linux user...
-                                       I'm not a programmer, but I like how the code works 😄
+                                        I’m diws1, a freelancer and GNU/Linux user...
+                                     I'm not a programmer, but I like how the code works 😄
                                       
-                                                 ✨ My favorite distro is Arch ✨
+                                               ✨ My favorite distro is Arch ✨
 
 <!--
 **diws1/diws1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
