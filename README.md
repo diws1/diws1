@@ -2,7 +2,7 @@
 
                                                           Hi there 👋
                                       
-                                        I’m diws1, a freelancer and GNU/Linux user...
+                                         I’m diws, a freelancer and GNU/Linux user...
                                      I'm not a programmer, but I like how the code works 😄
                                       
                                                ✨ My favorite distro is Arch ✨
