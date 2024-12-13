@@ -1,4 +1,7 @@
-## Hi there 👋
+### Hi there 👋
+
+💬 Nickname: diws\
+😄 Maybe you like it: youtube.com/@diws
 
 <!--
 **diws1/diws1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
