@@ -1,6 +1,14 @@
 # Hi there 👋, I'm diws</h1>
-I am a student, teacher, and a Linux enthusiast. Interested in software and open source operating systems such as GNU/Linux and FreeBSD. I am certainly not a programmer, but I like how a code works. If you are interested in simple tutorials, quick troubleshooting, and Linux desktop customization, you can visit my YouTube channel.
+I am a student, teacher, and a Linux enthusiast. Interested in software and open source operating systems such as GNU/Linux and FreeBSD. I am certainly not a programmer, but I like how a code works. If you are interested in simple tutorials, quick troubleshooting, and Linux desktop customization, you can visit my [YouTube](https://youtube.com/@diws) channel.
 
+  - [dfetch](https://github.com/diws1/dfetch)
+  - [xfce customization guide](https://github.com/diws1/xfce-rice)
+  - [sxstatus](https://github.com/diws1/sxstatus)
+  - [sxstatus-theme](https://github.com/diws1/sxstatus-theme)
+  - [twm-utils](https://github.com/diws1/twm-utils)
+  - [disci](https://github.com/diws1/disci)
+    
+<!--
 <h3 align="left">Tools I use:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
