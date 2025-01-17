@@ -1,6 +1,9 @@
-# Hi there 👋, I'm diws</h1>
-I am a student, teacher, and a Linux enthusiast. Interested in software and open source operating systems such as GNU/Linux and FreeBSD. I am certainly not a programmer, but I like how a code works. If you are interested in simple tutorials, quick troubleshooting, and Linux desktop customization, you can visit my [YouTube](https://youtube.com/@diws) channel.
+## Hi there 👋, I'm diws</h1>
+<!--
+I am a student, teacher, and a Linux enthusiast. Interested in software and open source operating systems such as GNU/Linux and FreeBSD. -->
+I'm <!--certainly--> not a programmer, but <!--I--> like how a code works. If you are interested in simple tutorials, quick troubleshooting, and Linux desktop customization, you can visit my [YouTube](https://youtube.com/@diws) channel.
 
+My little projects:
   - [dfetch](https://github.com/diws1/dfetch)
   - [xfce customization guide](https://github.com/diws1/xfce-rice)
   - [sxstatus](https://github.com/diws1/sxstatus)
